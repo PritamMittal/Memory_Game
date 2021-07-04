@@ -1,0 +1,43 @@
+body {
+    background-color: #FFF5EB;
+}
+
+.card{
+    height: 100px;
+    width: 100px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+}
+
+
+
+h3{
+    text-align: center;
+}
+
+.title{
+    background-color:#F4C7AB;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-top: 20px;
+    padding: 8px;
+    text-align: center;
+}
+
+.top{     
+    margin-left: -10px;
+    margin-right: -10px;
+}
